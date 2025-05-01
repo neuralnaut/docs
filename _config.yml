@@ -1,2 +1,5 @@
 name: "neuralnaut-docs"
 title: null
+breadcrumbs:
+  root:
+    hide: true
