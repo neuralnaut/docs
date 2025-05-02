@@ -88,7 +88,8 @@
 
 本ポリシーに関するお問い合わせは、以下の連絡先までお願いします。
 
-support@neuralnaut.com
+メール：<support@neuralnaut.com>  
+お問い合わせフォーム：[お問い合わせ](https://tally.so/r/wogJ4M)
 
 ## 12. データ管理者
 
@@ -98,5 +99,7 @@ support@neuralnaut.com
 神奈川県藤沢市遠藤3927  
 080-9885-4377  
 <support@neuralnaut.com>
+
+***
 
 2025年5月1日制定

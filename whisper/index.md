@@ -37,8 +37,8 @@
 
 サービスに関するご質問やお問い合わせは、以下の連絡先までお願いします：
 
-- メール：<support@neuralnaut.com>
-- お問い合わせフォーム：[URL]
+メール：<support@neuralnaut.com>  
+お問い合わせフォーム：[お問い合わせ](https://tally.so/r/wogJ4M)
 
 ## 更新履歴
 
