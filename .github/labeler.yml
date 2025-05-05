@@ -1,0 +1,14 @@
+"config":
+  - changed-files:
+      - any-glob-to-any-file:
+          - _config.yml
+
+"whisper":
+  - changed-files:
+      - any-glob-to-any-file:
+          - whisper/**
+
+"home":
+  - changed-files:
+      - any-glob-to-any-file:
+          - README.md
