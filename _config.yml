@@ -4,3 +4,6 @@ breadcrumbs:
   root:
     hide: true
 favicon_ico: favicon.ico
+# リポジトリの運用ファイルは公開しない（.md は .html として公開されてしまう）
+exclude:
+  - CLAUDE.md
